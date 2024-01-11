@@ -1,4 +1,4 @@
 # The Design
 
 
-! [](20240108_064827.jpg)
+! [](Payment-card-design/jikop/20240108_064827.jpg)
